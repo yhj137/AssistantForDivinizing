@@ -6,7 +6,7 @@
 ### 如何启动
 使用
 ```
-git clone xxxx
+git clone https://github.com/yhj137/AssistantForDivinizing.git
 ```
 将项目拉取到本地,进入项目目录后,运行
 ```
